@@ -21,7 +21,7 @@
           <a href="tel:+66622238855" class="h4">+66 62 223 8855</a>
         </b-col>
         <b-col class="text-right">
-          <a href="#" class="h4">Download my CV</a>
+          <a href="https://www.dropbox.com/s/2tw3ati72y0x1c3/Wimonsiri-15012021-2.pdf?dl=0" class="h4" target="_blank">Download my CV</a>
         </b-col>
       </b-row>
     </b-container>
@@ -29,7 +29,8 @@
 </template>
 
 <script>
-export default {}
+export default {
+}
 </script>
 
 <style scoped lang="scss">
